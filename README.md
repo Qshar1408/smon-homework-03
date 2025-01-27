@@ -11,7 +11,7 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
-
+![Monitoring_001](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_001.png)
  ---
 
 ### Задание 2
