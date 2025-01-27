@@ -12,9 +12,6 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
-![Monitoring_001](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_001.png)
-![Monitoring_002](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_002.png)
-![Monitoring_003](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_003.png)
  ---
 
 ### Задание 2
