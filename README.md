@@ -30,7 +30,9 @@
 
 #### Требования к результату
 - [ ] Результат данного задания сдавайте вместе с заданием 3
-
+![Monitoring_004](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_004.png)
+![Monitoring_005](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_005.png)
+![Monitoring_006](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_006.png)
  ---
 
 ### Задание 3
