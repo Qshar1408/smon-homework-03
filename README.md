@@ -85,7 +85,9 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md код скрипта, а также скриншот Latest data с результатом работы скрипта на bash, чтобы был виден результат работы скрипта при отправке в него 1 и 2
- 
+![Monitoring_013](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_013.png)
+![Monitoring_014](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_014.png)
+![Monitoring_015](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_015.png)
  ---
 
 ### Задание 7* со звёздочкой
