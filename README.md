@@ -46,7 +46,9 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
-
+![Monitoring_007](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_007.png)
+![Monitoring_008](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_008.png)
+![Monitoring_009](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_009.png)
  ---
 
 ### Задание 4
