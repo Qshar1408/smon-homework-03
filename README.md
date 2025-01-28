@@ -49,7 +49,7 @@
 ![Monitoring_007](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_007.png)
 ![Monitoring_008](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_008.png)
 ![Monitoring_009](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_009.png)
-![Monitoring_010](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_0010.png)
+![Monitoring_010](https://github.com/Qshar1408/smon-homework-03/blob/main/img/smon03_010.png)
  ---
 
 ### Задание 4
